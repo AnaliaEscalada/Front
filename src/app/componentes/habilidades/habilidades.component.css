@@ -1,0 +1,6 @@
+.header li{
+    display: flex;
+    list-style-type: none;
+    margin: 0.5cm;
+
+}
